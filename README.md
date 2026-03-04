@@ -13,7 +13,7 @@ Tools like [visual-explainer](https://github.com/nicobailon/visual-explainer) ge
 ### Claude Code
 
 ```bash
-git clone https://github.com/nicobailon/terminal-explainer.git ~/.claude/skills/terminal-explainer
+git clone https://github.com/bayological/terminal-explainer.git ~/.claude/skills/terminal-explainer
 cd ~/.claude/skills/terminal-explainer && npm install
 cp prompts/*.md ~/.claude/commands/
 ```
